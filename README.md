@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CruzNadin/react-vscode-portfolio">
-    <img src="./src/static/favicon.png" alt="Logo" width="80" >
+    <img src="https://github.com/CruzNadin/react-vscode-portfolio/blob/main/src/static/favicon.png?raw=true" alt="Logo" width="80" >
   </a>
 
 <h3 align="center">react-vscode-portfolio</h3>
@@ -145,16 +145,6 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
 ## License
 
 Distributed under the MIT License. See `LICENSE.md` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
-## Contact
-
-Yan-Ying Liao - [Personal Portfolio](https://noworneverev.github.io/) - n9102125@gmail.com
-
-Project Link: [https://github.com/noworneverev/react-vscode-portfolio](https://github.com/noworneverev/react-vscode-portfolio)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
