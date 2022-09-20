@@ -1,6 +1,7 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
+
 [![gh-pages-shield]][gh-pages-url]
 [![website-shield]][website-url]
 [![Forks][forks-shield]][forks-url]
@@ -9,12 +10,10 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/noworneverev/react-vscode-portfolio">
+  <a href="https://github.com/CruzNadin/react-vscode-portfolio">
     <img src="./src/static/favicon.png" alt="Logo" width="80" >
   </a>
 
@@ -28,13 +27,11 @@
     <br />
     <a href="https://noworneverev.github.io/">View Demo</a>
     ·
-    <a href="https://github.com/noworneverev/react-vscode-portfolio/issues">Report Bug</a>
+    <a href="https://github.com/CruzNadin/react-vscode-portfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/noworneverev/react-vscode-portfolio/issues">Request Feature</a>
+    <a href="https://github.com/CruzNadin/react-vscode-portfolio/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -60,12 +57,9 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://noworneverev.github.io/)
+## About The Project
 
 The project is inspired by [Visual Studio Code](https://github.com/microsoft/vscode) and [caglarturali.github.io](https://github.com/caglarturali/caglarturali.github.io). The pages of the portfolio are powered by `markdown`, which make them easy to modify or add your own contents.
 
@@ -73,14 +67,14 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
 
 ### Built With
 
-* [React.js](https://reactjs.org/)
-* [Material UI](https://github.com/mui/material-ui)
-* [react-markdown](https://github.com/remarkjs/react-markdown)
+- [React.js](https://reactjs.org/)
+- [Material UI](https://github.com/mui/material-ui)
+- [react-markdown](https://github.com/remarkjs/react-markdown)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 ### Installation
@@ -99,28 +93,28 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
    ```
 4. Add your markdown pages in `public/pages`
 5. Add your routes in `src/app/pages/page.ts`, make sure the names of pages are consistent with markdown files.
-    ```ts
-    export const pages = [
-      { index: 0, name: 'overview.md', route: '/overview' },
-      { index: 1, name: 'skills.md', route: '/skills' },
-      { index: 2, name: 'experience.md', route: '/experience' },
-      { index: 3, name: 'education.md', route: '/education' },
-      { index: 4, name: 'projects.md', route: '/projects' },  
-      { index: 5, name: 'certificates.md', route: '/certificates' },
-      { index: 6, name: 'accomplishments.md', route: '/accomplishments' },
-    ];
-    ```
+   ```ts
+   export const pages = [
+     { index: 0, name: "overview.md", route: "/overview" },
+     { index: 1, name: "skills.md", route: "/skills" },
+     { index: 2, name: "experience.md", route: "/experience" },
+     { index: 3, name: "education.md", route: "/education" },
+     { index: 4, name: "projects.md", route: "/projects" },
+     { index: 5, name: "certificates.md", route: "/certificates" },
+     { index: 6, name: "accomplishments.md", route: "/accomplishments" },
+   ];
+   ```
 6. Add your social links in `src/app/pages/link.tsx`, which will appear in both sidebar and homepage.
-    ```ts
-    export const links = [
-      {
-        index: 0,
-        title: "Find me on Github",
-        href: "https://github.com/noworneverev",
-        icon: <FaGithub />,
-      },
-    ];
-    ```
+   ```ts
+   export const links = [
+     {
+       index: 0,
+       title: "Find me on Github",
+       href: "https://github.com/noworneverev",
+       icon: <FaGithub />,
+     },
+   ];
+   ```
 7. Runs the app in the development mode
    ```sh
    npm start
@@ -134,6 +128,7 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
+
 ## Features
 
 - Powerd by markdown
@@ -146,15 +141,15 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Yan-Ying Liao - [Personal Portfolio](https://noworneverev.github.io/) - n9102125@gmail.com
@@ -163,20 +158,21 @@ Project Link: [https://github.com/noworneverev/react-vscode-portfolio](https://g
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-* [caglarturali.github.io](https://github.com/caglarturali/caglarturali.github.io)
+- [Img Shields](https://shields.io)
+- [GitHub Pages](https://pages.github.com)
+- [React Icons](https://react-icons.github.io/react-icons/search)
+- [caglarturali.github.io](https://github.com/caglarturali/caglarturali.github.io)
+- [Yan-Ying Liao](https://github.com/noworneverev/react-vscode-portfolio)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [forks-shield]: https://img.shields.io/github/forks/noworneverev/react-vscode-portfolio
 [forks-url]: https://github.com/noworneverev/react-vscode-portfolio/network/members
 [stars-shield]: https://img.shields.io/github/stars/noworneverev/react-vscode-portfolio
@@ -190,5 +186,5 @@ Project Link: [https://github.com/noworneverev/react-vscode-portfolio](https://g
 [product-screenshot]: ./src/static/screenshot.gif
 [gh-pages-shield]: https://img.shields.io/github/deployments/noworneverev/noworneverev.github.io/github-pages
 [gh-pages-url]: https://github.com/noworneverev/noworneverev.github.io/deployments
-[website-shield]:https://img.shields.io/website?url=https%3A%2F%2Fnoworneverev.github.io%2F
+[website-shield]: https://img.shields.io/website?url=https%3A%2F%2Fnoworneverev.github.io%2F
 [website-url]: https://noworneverev.github.io/
