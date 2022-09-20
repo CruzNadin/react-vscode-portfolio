@@ -1,3 +1,4 @@
 # 💬 Languages
-**English**: C1
-**Chinese**: Native
+
+**Türkçe**: Native
+**English**: A1

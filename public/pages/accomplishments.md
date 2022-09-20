@@ -1,3 +1,7 @@
 # 🏆 Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
+
+**Final Certificate Won** @ [BKUBO](http://ubo.bahcesehir.k12.tr/) _(2020)_
+I qualified to participate in the final competition in the International Computer Olympics competition.
+
+**Seo and Information Technologies certificate**
+I completed the Istanbul University Distance Education Certificate Program training, I was entitled to receive the seo and information technology certificate.

@@ -1,32 +1,40 @@
 # 💻 Skills
 
-## General Tech Stacks
-- Architecture Design
-- Desktop App Development
+## Skills
+
+### General Tech Stacks
+
+- Mobile App Development
 - Web Development (Frontend & Backend)
 
-## Programming languages
-- C# .NET
-- Python
+### Programming languages
+
 - JavaScript/TypeScript
+  - React Native
   - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+  - Next.js
+  - Vue
+  - Express.js
+  - Sequelize
+- Flutter
+- Swift
+- Kotlin
 
 ## Databases
+
 - MSSQL
 - PostgreSQL
 - MySQL
 - SQLite
 
 ## Cloud
-- Azure
+
+- Netlify
+- Amazon
 - GCP
 - Heroku
 - Render
 
 ## Vcs
+
 - Git

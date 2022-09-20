@@ -61,7 +61,7 @@ export default function Sidebar({
           <Tooltip title="Source of this project" arrow placement="right">
             <Link
               target="_blank"
-              href={"https://github.com/noworneverev/react-vscode-portfolio"}
+              href={"https://github.com/CruzNadin/react-vscode-portfolio"}
               underline="none"
               color="inherit"
             >
