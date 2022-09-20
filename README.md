@@ -81,7 +81,7 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/noworneverev/react-vscode-portfolio.git
+   git clone https://github.com/CruzNadin/react-vscode-portfolio.git
    ```
 2. Install NPM packages
    ```sh
@@ -110,7 +110,7 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
      {
        index: 0,
        title: "Find me on Github",
-       href: "https://github.com/noworneverev",
+       href: "https://github.com/CruzNadin",
        icon: <FaGithub />,
      },
    ];
