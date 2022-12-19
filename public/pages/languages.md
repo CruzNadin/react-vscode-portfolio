@@ -1,4 +1,4 @@
 # 💬 Languages
 
 **Türkçe**: Native
-**English**: A1
+**English**: A2+
